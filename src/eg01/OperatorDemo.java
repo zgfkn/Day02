@@ -9,6 +9,5 @@ public class OperatorDemo {
         int a = 2 + 2 / 2 + 3 * 5 + 4;
         System.out.println(a);
         //优先级相同,从左到右依次计算,有括号先算括号里面的
-
     }
 }
